@@ -1,0 +1,11 @@
+product_id,score,name,category,price,brand
+P7,5,Adidas Shoes,Footwear,4500,Adidas
+P3,5,Samsung S23,Electronics,75000,Samsung
+P9,5,Office Chair,Furniture,6000,Featherlite
+P2,3,iPhone 13,Electronics,60000,Apple
+P10,3,HP Laptop,Electronics,55000,HP
+P5,3,Dell Laptop,Electronics,65000,Dell
+P1,2,iPhone 14,Electronics,80000,Apple
+P4,1,MacBook Air,Electronics,120000,Apple
+P6,1,Nike Shoes,Footwear,5000,Nike
+P8,1,Wooden Table,Furniture,7000,HomeTown

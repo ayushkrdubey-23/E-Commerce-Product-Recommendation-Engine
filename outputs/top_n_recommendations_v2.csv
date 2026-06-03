@@ -1,0 +1,26 @@
+user_id,product_id,name,category,score
+U1,P5,Dell Laptop,Electronics,9
+U1,P4,MacBook Air,Electronics,9
+U1,P10,HP Laptop,Electronics,9
+U1,P9,Office Chair,Furniture,0
+U1,P8,Wooden Table,Furniture,0
+U2,P3,Samsung S23,Electronics,4
+U2,P2,iPhone 13,Electronics,4
+U2,P10,HP Laptop,Electronics,4
+U2,P1,iPhone 14,Electronics,4
+U2,P9,Office Chair,Furniture,0
+U3,P9,Office Chair,Furniture,0
+U3,P8,Wooden Table,Furniture,0
+U3,P5,Dell Laptop,Electronics,0
+U3,P4,MacBook Air,Electronics,0
+U3,P3,Samsung S23,Electronics,0
+U4,P5,Dell Laptop,Electronics,4
+U4,P4,MacBook Air,Electronics,4
+U4,P3,Samsung S23,Electronics,4
+U4,P2,iPhone 13,Electronics,4
+U4,P9,Office Chair,Furniture,0
+U5,P7,Adidas Shoes,Footwear,0
+U5,P6,Nike Shoes,Footwear,0
+U5,P5,Dell Laptop,Electronics,0
+U5,P4,MacBook Air,Electronics,0
+U5,P3,Samsung S23,Electronics,0

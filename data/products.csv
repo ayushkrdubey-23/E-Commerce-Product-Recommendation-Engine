@@ -1,0 +1,11 @@
+product_id,name,category,price,brand
+P1,iPhone 14,Electronics,80000,Apple
+P2,iPhone 13,Electronics,60000,Apple
+P3,Samsung S23,Electronics,75000,Samsung
+P4,MacBook Air,Electronics,120000,Apple
+P5,Dell Laptop,Electronics,65000,Dell
+P6,Nike Shoes,Footwear,5000,Nike
+P7,Adidas Shoes,Footwear,4500,Adidas
+P8,Wooden Table,Furniture,7000,HomeTown
+P9,Office Chair,Furniture,6000,Featherlite
+P10,HP Laptop,Electronics,55000,HP

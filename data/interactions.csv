@@ -1,0 +1,12 @@
+user_id,product_id,event
+U1,P1,view
+U1,P2,cart
+U1,P3,purchase
+U2,P4,view
+U2,P5,cart
+U3,P6,view
+U3,P7,purchase
+U4,P1,view
+U4,P10,cart
+U5,P8,view
+U5,P9,purchase
