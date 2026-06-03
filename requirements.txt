@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+scipy
+
+# For advanced ranking / ML (optional but industry relevant)
+lightgbm
+
+# For API layer (if you extend project)
+fastapi
+uvicorn
+
+# For data handling / utilities
+python-dateutil
+
+# For future visualization (optional analytics dashboards)
+matplotlib
+seaborn
